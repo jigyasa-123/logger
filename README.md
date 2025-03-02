@@ -1,7 +1,8 @@
-Simple logging library - Low level design
+# Simple logging library - Low level design
 
 
-Design pattern used:
-Singleton
-Observer
-Factory
+## Design pattern used
+* Singleton
+* Observer
+* Factory
+* Chain Of responsibility
